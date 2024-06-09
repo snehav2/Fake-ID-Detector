@@ -2,6 +2,7 @@
 Detecting fake IDs on social media using machine learning (ML) involves training models like Random Forest, Support Vector Machine (SVM), and Neural Networks to identify patterns that differentiate between genuine and fake accounts.
 
 <img src="https://mindy-support.com/wp-content/uploads/2023/01/blog-27.jpg" height="75%" width="75%" >
+
 ## 1. Data Collection
 Data Sources
 User Profile: 
